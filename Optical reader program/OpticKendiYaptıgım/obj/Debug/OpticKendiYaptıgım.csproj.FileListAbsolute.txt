@@ -1,0 +1,26 @@
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\bin\Debug\OpticKendiYaptıgım.exe.config
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\bin\Debug\OpticKendiYaptıgım.exe
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\bin\Debug\OpticKendiYaptıgım.pdb
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.csprojAssemblyReference.cache
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.Properties.Resources.resources
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.csproj.GenerateResource.cache
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.csproj.CoreCompileInputs.cache
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.exe
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.pdb
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.Form1_Berkay.resources
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\bin\Debug\tr-TR\OpticKendiYaptıgım.resources.dll
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.Form1_Berkay.tr-TR.resources
+C:\Users\berkay\source\repos\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\tr-TR\OpticKendiYaptıgım.resources.dll
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\bin\Debug\OpticKendiYaptıgım.exe.config
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\bin\Debug\OpticKendiYaptıgım.exe
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\bin\Debug\OpticKendiYaptıgım.pdb
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\bin\Debug\tr-TR\OpticKendiYaptıgım.resources.dll
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.csprojAssemblyReference.cache
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.Form1_Berkay.resources
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.Properties.Resources.resources
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.Form1_Berkay.tr-TR.resources
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.csproj.GenerateResource.cache
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.csproj.CoreCompileInputs.cache
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\tr-TR\OpticKendiYaptıgım.resources.dll
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.exe
+D:\indirilenler\201513162805-Berkay ŞENER\OpticKendiYaptıgım\OpticKendiYaptıgım\obj\Debug\OpticKendiYaptıgım.pdb
