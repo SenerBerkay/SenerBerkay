@@ -1,0 +1,11 @@
+C:\Users\berkay\Desktop\Sınıf_Atama\Sınıf_Atama\bin\Debug\DATA2.accdb
+C:\Users\berkay\Desktop\Sınıf_Atama\Sınıf_Atama\bin\Debug\Sınıf_Atama.exe.config
+C:\Users\berkay\Desktop\Sınıf_Atama\Sınıf_Atama\bin\Debug\Sınıf_Atama.exe
+C:\Users\berkay\Desktop\Sınıf_Atama\Sınıf_Atama\bin\Debug\Sınıf_Atama.pdb
+C:\Users\berkay\Desktop\Sınıf_Atama\Sınıf_Atama\obj\Debug\Sınıf_Atama.csprojAssemblyReference.cache
+C:\Users\berkay\Desktop\Sınıf_Atama\Sınıf_Atama\obj\Debug\Sınıf_Atama.Form1.resources
+C:\Users\berkay\Desktop\Sınıf_Atama\Sınıf_Atama\obj\Debug\Sınıf_Atama.Properties.Resources.resources
+C:\Users\berkay\Desktop\Sınıf_Atama\Sınıf_Atama\obj\Debug\Sınıf_Atama.csproj.GenerateResource.cache
+C:\Users\berkay\Desktop\Sınıf_Atama\Sınıf_Atama\obj\Debug\Sınıf_Atama.csproj.CoreCompileInputs.cache
+C:\Users\berkay\Desktop\Sınıf_Atama\Sınıf_Atama\obj\Debug\Sınıf_Atama.exe
+C:\Users\berkay\Desktop\Sınıf_Atama\Sınıf_Atama\obj\Debug\Sınıf_Atama.pdb
