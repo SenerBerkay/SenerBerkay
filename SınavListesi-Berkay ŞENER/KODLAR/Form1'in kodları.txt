@@ -1,0 +1,90 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace SýnavListesi
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void ÖðrenciÝþlemleriToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Öðrenci ogr = new Öðrenci();
+            if (Application.OpenForms["Öðrenci"] != null)
+            {
+                ogr.Activate();
+            }
+            else
+            {
+                ogr.MdiParent = this;
+                ogr.Show();
+            }
+
+        }
+
+        private void SýnýfListesiOluþturToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SýnýfListesi ogr = new SýnýfListesi();
+            if (Application.OpenForms["SýnýfListesi"] != null)
+            {
+                ogr.Activate();
+            }
+            else
+            {
+                ogr.MdiParent = this;
+                ogr.Show();
+            }
+
+        }
+
+        private void SýnýfÝþlemleriToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SinifIslemleri goster = new SinifIslemleri();
+            goster.MdiParent = this;
+            goster.Show();
+        }
+
+        private void ÇýkýþToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void HakkýndaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Hakkýnda goster = new Hakkýnda();
+            goster.MdiParent = this;
+            goster.Show();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DersÝþlemleriToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DersIslemleri goster = new DersIslemleri();
+            goster.MdiParent = this;
+            goster.Show();
+        }
+
+        private void YardýmToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            /*OpenFileDialog dosya = new OpenFileDialog();
+            dosya.FileName = "Yardým-Kullanma Klavuzu";
+            dosya.Filter= "Pdf Files|*.pdf";
+            dosya.ShowDialog();
+            Bu komutlarla açmasý gerekirken açmadý.Bu kýsýmda nerede eksik yaptýðýmý bulamadým.*/
+        }
+    }
+}

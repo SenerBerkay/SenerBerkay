@@ -1,0 +1,16 @@
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\bin\Debug\SınavListesi.exe.config
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\bin\Debug\SınavListesi.exe
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\bin\Debug\SınavListesi.pdb
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\obj\Debug\SınavListesi.csprojAssemblyReference.cache
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\obj\Debug\SınavListesi.Form1.resources
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\obj\Debug\SınavListesi.Properties.Resources.resources
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\obj\Debug\SınavListesi.csproj.GenerateResource.cache
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\obj\Debug\SınavListesi.csproj.CoreCompileInputs.cache
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\obj\Debug\SınavListesi.exe
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\obj\Debug\SınavListesi.pdb
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\bin\Debug\Veri.accdb
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\obj\Debug\SınavListesi.Öğrenci.resources
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\obj\Debug\SınavListesi.SınıfListesi.resources
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\obj\Debug\SınavListesi.Hakkında.resources
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\obj\Debug\SınavListesi.SinifIslemleri.resources
+C:\Users\berkay\Desktop\SınavListesi\SınavListesi\obj\Debug\SınavListesi.DersIslemleri.resources
