@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Bilgisayar Uygulamaları Stajı\Bilgisayar Uygulamaları Stajı\bin\Debug\Bilgisayar Uygulamaları Stajı.exe.config
+C:\Users\user\Desktop\Bilgisayar Uygulamaları Stajı\Bilgisayar Uygulamaları Stajı\bin\Debug\Bilgisayar Uygulamaları Stajı.exe
+C:\Users\user\Desktop\Bilgisayar Uygulamaları Stajı\Bilgisayar Uygulamaları Stajı\bin\Debug\Bilgisayar Uygulamaları Stajı.pdb
+C:\Users\user\Desktop\Bilgisayar Uygulamaları Stajı\Bilgisayar Uygulamaları Stajı\obj\Debug\Bilgisayar Uygulamaları Stajı.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Bilgisayar Uygulamaları Stajı\Bilgisayar Uygulamaları Stajı\obj\Debug\Bilgisayar_Uygulamaları_Stajı.Form1.resources
+C:\Users\user\Desktop\Bilgisayar Uygulamaları Stajı\Bilgisayar Uygulamaları Stajı\obj\Debug\Bilgisayar_Uygulamaları_Stajı.Properties.Resources.resources
+C:\Users\user\Desktop\Bilgisayar Uygulamaları Stajı\Bilgisayar Uygulamaları Stajı\obj\Debug\Bilgisayar Uygulamaları Stajı.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Bilgisayar Uygulamaları Stajı\Bilgisayar Uygulamaları Stajı\obj\Debug\Bilgisayar Uygulamaları Stajı.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bilgisayar Uygulamaları Stajı\Bilgisayar Uygulamaları Stajı\obj\Debug\Bilgisayar Uygulamaları Stajı.exe
+C:\Users\user\Desktop\Bilgisayar Uygulamaları Stajı\Bilgisayar Uygulamaları Stajı\obj\Debug\Bilgisayar Uygulamaları Stajı.pdb

@@ -1,0 +1,3 @@
+HOCAM "Bilgisayar Uygulamaları Stajı" (exe) uygulaması ile "Üretim ve Prim Alacaklar Programı" (exe) uygulaması aynı programdır.Aynı programdan iki tane olmasının nedeni programın
+simgesini icon'unu değiştirmeyi başarınca aynı programdan iki tane oluştu.Aynı programı bu dosyada tutmamın sebebi sizi programı gönderdiğimde değişiklik yapılanların açılıp açılmama
+kaygısından dolayıdır.
