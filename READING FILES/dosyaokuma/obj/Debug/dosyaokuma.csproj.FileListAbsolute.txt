@@ -1,0 +1,10 @@
+C:\Users\mertp\Desktop\dosyaokuma\dosyaokuma\obj\Debug\dosyaokuma.csprojAssemblyReference.cache
+C:\Users\mertp\Desktop\dosyaokuma\dosyaokuma\obj\Debug\dosyaokuma.Form1.resources
+C:\Users\mertp\Desktop\dosyaokuma\dosyaokuma\obj\Debug\dosyaokuma.Properties.Resources.resources
+C:\Users\mertp\Desktop\dosyaokuma\dosyaokuma\obj\Debug\dosyaokuma.csproj.GenerateResource.cache
+C:\Users\mertp\Desktop\dosyaokuma\dosyaokuma\obj\Debug\dosyaokuma.csproj.CoreCompileInputs.cache
+C:\Users\mertp\Desktop\dosyaokuma\dosyaokuma\bin\Debug\dosyaokuma.exe.config
+C:\Users\mertp\Desktop\dosyaokuma\dosyaokuma\bin\Debug\dosyaokuma.exe
+C:\Users\mertp\Desktop\dosyaokuma\dosyaokuma\bin\Debug\dosyaokuma.pdb
+C:\Users\mertp\Desktop\dosyaokuma\dosyaokuma\obj\Debug\dosyaokuma.exe
+C:\Users\mertp\Desktop\dosyaokuma\dosyaokuma\obj\Debug\dosyaokuma.pdb
